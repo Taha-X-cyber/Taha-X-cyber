@@ -1,21 +1,16 @@
 
-<h1 align="center">Taha</h1>
+<div align="center">
 
-<h3 align="center">
-  Web Security &amp; Bug Bounty
-</h3>
+# Taha | Web Security
 
-<p align="center">
-  Learning web security through hands-on practice,
-  research, and continuous improvement.
-</p>
+### WEB SECURITY · BUG BOUNTY
 
-<p align="center">
-  <img src="https://img.shields.io/badge/WEB_SECURITY-101810?style=for-the-badge&logo=owasp&logoColor=65E6A0" alt="Web Security" />
-  <img src="https://img.shields.io/badge/BUG_BOUNTY-101810?style=for-the-badge&logo=hackerone&logoColor=65E6A0" alt="Bug Bounty" />
-  <img src="https://img.shields.io/badge/LEARNING_IN_PUBLIC-101810?style=for-the-badge&logo=github&logoColor=65E6A0" alt="Learning in Public" />
-</p>
+Learning. Exploring. Building.
 
-<p align="center">
-  <sub>Curiosity • Practice • Progress</sub>
-</p>
+<br>
+
+<img src="https://img.shields.io/badge/WEB%20SECURITY-111111?style=for-the-badge&logo=owasp&logoColor=54E38E" />
+<img src="https://img.shields.io/badge/BUG%20BOUNTY-111111?style=for-the-badge&logo=hackerone&logoColor=54E38E" />
+<img src="https://img.shields.io/badge/LEARNING%20IN%20PUBLIC-111111?style=for-the-badge&logo=github&logoColor=54E38E" />
+
+</div>
