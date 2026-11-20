@@ -93,7 +93,7 @@ My cybersecurity journey is focused on building strong fundamentals and developi
 ---
 
 <p align="center">
-  <sub>Learn something new. Practice it. Understand it. Repeat.</sub>
+  <sub>Learn something new . Practice it . Understand it . Repeat.</sub>
 </p>
 
 
