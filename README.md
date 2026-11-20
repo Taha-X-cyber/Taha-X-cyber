@@ -34,3 +34,21 @@ My learning journey is built around hands-on practice, security research, and co
 I believe in learning by doing, understanding the fundamentals, and documenting progress along the way.
 
 **Currently learning. Always improving.**
+
+
+---
+
+## Tools & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=linux&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nuclei-5B45D5?style=for-the-badge&logoColor=white" alt="Nuclei" />
+  <img src="https://img.shields.io/badge/WPScan-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WPScan" />
+  <img src="https://img.shields.io/badge/SQLmap-CC2927?style=for-the-badge&logoColor=white" alt="SQLmap" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
+
