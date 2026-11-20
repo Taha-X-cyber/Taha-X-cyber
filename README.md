@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.svg" alt="Taha | Web Security" />
+  <img src="https://githubusercontent.com" alt="Taha | Web Security" />
 </p>
 
 <div align="center">
