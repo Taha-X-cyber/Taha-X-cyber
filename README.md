@@ -1,15 +1,18 @@
-<div align="center">
 
-# Taha | Web Security
+<h1 align="center">Taha</h1>
 
-### WEB SECURITY · BUG BOUNTY
+<h3 align="center">Web Security &amp; Bug Bounty</h3>
 
-Learning. Exploring. Building.
+<p align="center">
+  Learning web security through hands-on practice and research.
+</p>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/WEB_SECURITY-101810?style=for-the-badge&logo=owasp&logoColor=65E6A0" />
+  <img src="https://img.shields.io/badge/BUG_BOUNTY-101810?style=for-the-badge&logo=hackerone&logoColor=65E6A0" />
+  <img src="https://img.shields.io/badge/LEARNING-101810?style=for-the-badge&logo=github&logoColor=65E6A0" />
+</p>
 
-<img src="https://img.shields.io/badge/WEB%20SECURITY-111111?style=for-the-badge&logo=owasp&logoColor=54E38E" />
-<img src="https://img.shields.io/badge/BUG%20BOUNTY-111111?style=for-the-badge&logo=hackerone&logoColor=54E38E" />
-<img src="https://img.shields.io/badge/LEARNING%20IN%20PUBLIC-111111?style=for-the-badge&logo=github&logoColor=54E38E" />
-
-</div>
+<p align="center">
+  <sub>Curiosity • Practice • Progress</sub>
+</p>
