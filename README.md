@@ -85,16 +85,15 @@ My cybersecurity journey is focused on building strong fundamentals and developi
 
 ---
 
+## Beyond the Terminal
+
+- **Inline Skating:** Passionate about speed, precision, endurance, and continuous improvement.
+- **Piano & Music:** Interested in classical compositions and cinematic soundtracks.
+
+---
+
 <p align="center">
   <sub>Learn something new. Practice it. Understand it. Repeat.</sub>
 </p>
 
-
-
----
-
-## ⚡ Beyond the Terminal
-
-- ⛸️ **Inline Skating:** Passionate about speed, precision, endurance, and continuous improvement.
-- 🎹 **Piano & Music:** Interested in classical compositions and cinematic soundtracks.
 
