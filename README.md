@@ -52,3 +52,39 @@ I believe in learning by doing, understanding the fundamentals, and documenting 
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
+
+---
+
+## Learning Journey
+
+My cybersecurity journey is focused on building strong fundamentals and developing practical web security skills.
+
+### Web Security
+
+- SQL Injection
+- Cross-Site Scripting (XSS)
+- Authentication
+- Access Control
+- Business Logic Vulnerabilities
+- File Upload Vulnerabilities
+- Path Traversal
+
+### Hands-on Practice
+
+- Solving labs on PortSwigger Web Security Academy
+- Practicing web application security concepts
+- Exploring reconnaissance techniques
+- Improving practical problem-solving skills
+
+### Currently Exploring
+
+- Advanced web security concepts
+- Reconnaissance and automation
+- JavaScript and SQL
+- PowerShell scripting
+
+---
+
+<p align="center">
+  <sub>Learn something new. Practice it. Understand it. Repeat.</sub>
+</p>
